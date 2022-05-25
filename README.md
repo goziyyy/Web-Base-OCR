@@ -14,8 +14,7 @@ A Telegram Bot that allows you to scrape text from images.
   
  To install python dependencies, simply run pip
  
-    pip install pytesseract
-    pip install opencv-python
+    pip install pyrogram tgcrypto pytesseract opencv-python
 
           
 ## Installation
