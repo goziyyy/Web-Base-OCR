@@ -1,8 +1,0 @@
-#!/run/media/yeoji/863ed1b0-d5c2-47f4-b344-80cd59e7a09c/Telegram-Image-Scraper/myenv/bin/python
-# -*- coding: utf-8 -*-
-import re
-import sys
-from pip._internal.cli.main import main
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(main())
